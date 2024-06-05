@@ -21,7 +21,6 @@ The ground truth annotation samples are shown in the figure below:
 ![annotations](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/fa713608-3a61-4c63-a6aa-25d659778ea8)
 
 <H3>Data Preprocessing:</H3>
-<BR>
 
 ![Picture2](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/68bb2cc3-a6c6-40c7-90ba-a8f46bae070e)
 
