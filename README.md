@@ -33,7 +33,7 @@ The Steps involved in data preprocessing are shown in figure below:
 
 ![Picture3](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/8b01899e-cb08-4e07-9351-ecc0b0307680)
 
-<p align:center>?<b>Sematic segmentation of six classes using u-net with efficientnetb7</b></p>
+<p align:center><H4>Sematic segmentation of six classes using u-net with efficientnetb7</H4></p>
 
 ![Picture6](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/66c982fc-cfc7-4122-9e5b-711afaa3eaf5)
 
