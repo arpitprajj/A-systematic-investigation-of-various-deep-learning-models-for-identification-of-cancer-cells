@@ -18,6 +18,7 @@ Our proposed workflow includes five main stages: Data Preprocessing, Model Selec
 The dataset consists of 481 visual fields, of which 312 are randomly sampled from more than 20K whole slide images at different magnifications, from multiple data sources. In total the dataset contains 205,343 labeled nuclei, each with an instance segmentation mask.
 
 The ground truth annotation samples are shown in the figure below:
+
 ![annotations](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/fa713608-3a61-4c63-a6aa-25d659778ea8)
 
 <H3>Data Preprocessing:</H3>
@@ -30,8 +31,8 @@ Figure2: Steps involved in data preprocessing.
 <H3>Unet with EfficientnetB7 Encoder</H3>
 
 ![Picture3](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/7324544b-c106-42d3-b705-7af7caf440c0)
-<p align:center
-Figure 3: Architecture of U-net - EfficientNetB7.</p>
+
+<p align:center> Figure 3: Architecture of U-net - EfficientNetB7.</p>
 
 <br>
 
