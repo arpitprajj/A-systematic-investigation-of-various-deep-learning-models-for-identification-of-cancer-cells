@@ -1,7 +1,7 @@
 # A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells
 
 
-<b>[Project_report.pdf](https://github.com/user-attachments/files/15580615/Project_report.pdf)</b>
+<H2>[Project_report.pdf](https://github.com/user-attachments/files/15580615/Project_report.pdf)</H2>
 
 
 <H3>Proposed Workflow</H3> 
