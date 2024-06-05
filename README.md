@@ -26,7 +26,7 @@ The Pannuke data downloaded is in the form of numpy file. It contains images.npy
 
 The Steps involved in data preprocessing are shown in figure below:
 
-![Picture2](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/bf44bb08-2743-4af5-afea-48ee6afb426b)
+![Picture3](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/bf44bb08-2743-4af5-afea-48ee6afb426b)
 
 <br>
 
