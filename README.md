@@ -25,19 +25,21 @@ The ground truth annotation samples are shown in the figure below:
 The Pannuke data downloaded is in the form of numpy file. It contains images.npy and types.npy. After that we loaded the data using np.load(). Next we reduced the size using astype(np.int16). Then we removed Images without cells following by index splitting. In last we organized all the image files. Using pycococreator tool, we are making coco.json file for our image files with categories neoplastic, inflammatory, softtissue, dead, epithelial.The coco.json file will be used for annotations as well as labelling.Further we apply image preprocessing techniques.
 
 The Steps involved in data preprocessing are shown in figure below:
-
-![Picture3](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/bf44bb08-2743-4af5-afea-48ee6afb426b)
+![Picture2](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/a272fe9d-67b3-406c-b79c-5531a579a393)
 
 <br>
 
 <H3>Architecture of Unet with EfficientnetB7 Encoder</H3>
 
-![Picture4](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/7324544b-c106-42d3-b705-7af7caf440c0)
+![Picture3](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/8b01899e-cb08-4e07-9351-ecc0b0307680)
+
 
 <br>
 
 <H3>Detectron2</H3>
-![Picture4](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/3594553b-9648-4cf5-8328-2c3488424e9b)
+
+![Picture4](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/441cf0a7-34b0-41e7-bb44-53ed4563888d)
+
 <p align:center> Figure 4: Architecture of Detectron2.</p>
 
 
