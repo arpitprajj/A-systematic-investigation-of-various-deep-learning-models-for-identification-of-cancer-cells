@@ -51,6 +51,14 @@ The Steps involved in data preprocessing are shown in figure below:
 
 ![Picture5](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/d6a992d5-7fe5-4b4e-bb2e-5fc32899267f)
 
+<H2 align:center >Predictions of one of the validated batches using YOLOV8x segmentation model</H2> 
+
+![val_batch2_pred](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/3e49aadd-8cae-4e82-8285-95868ea92a67)
+
+<H2 align:center >Confusion Matrix of YOLOV8x segmentation model.</H2> 
+
+![confusion_matrix](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/5b2f695b-1c24-44af-93f8-c458c35c3321)
+
 
 
 
