@@ -36,10 +36,15 @@ The Steps involved in data preprocessing are shown in figure below:
 
 <br>
 
-<H3>Detectron2</H3>
+<H3>Architecture of Detectron2</H3>
 
 ![Picture4](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/441cf0a7-34b0-41e7-bb44-53ed4563888d)
 
-<p align:center> Figure 4: Architecture of Detectron2.</p>
+<br>
+<H3>Architecture of YOLOV8</H3>
+
+![Picture5](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/d6a992d5-7fe5-4b4e-bb2e-5fc32899267f)
+
+
 
 
