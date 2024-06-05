@@ -21,11 +21,13 @@ The ground truth annotation samples are shown in the figure below:
 
 ![annotations](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/fa713608-3a61-4c63-a6aa-25d659778ea8)
 
-<H3>Data Preprocessing:</H3>
+<H3>Data Preprocessing</H3>
+The Pannuke data downloaded is in the form of numpy file. It contains images.npy and types.npy. After that we loaded the data using np.load(). Next we reduced the size using astype(np.int16). Then we removed Images without cells following by index splitting. In last we organized all the image files. Using pycococreator tool, we are making coco.json file for our image files with categories neoplastic, inflammatory, softtissue, dead, epithelial.The coco.json file will be used for annotations as well as labelling.Further we apply image preprocessing techniques.
 
 ![Picture2](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/68bb2cc3-a6c6-40c7-90ba-a8f46bae070e)
 
-Figure2: Steps involved in data preprocessing.
+<p align:center>Figure2: Steps involved in data preprocessing.</p>
+
 <br>
 
 <H3>Unet with EfficientnetB7 Encoder</H3>
