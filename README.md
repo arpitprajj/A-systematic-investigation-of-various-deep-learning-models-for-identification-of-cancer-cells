@@ -12,7 +12,6 @@ Our proposed workflow includes five main stages: Data Preprocessing, Model Selec
 
 <br>
 
-
 <H3>Dataset information</H3>
 The dataset consists of 481 visual fields, of which 312 are randomly sampled from more than 20K whole slide images at different magnifications, from multiple data sources. In total the dataset contains 205,343 labeled nuclei, each with an instance segmentation mask.
 
@@ -33,7 +32,7 @@ The Steps involved in data preprocessing are shown in figure below:
 
 ![Picture3](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/8b01899e-cb08-4e07-9351-ecc0b0307680)
 
-<p align:center><H4>Sematic segmentation of six classes using u-net with efficientnetb7</H4></p>
+<H2 align:center >Sematic segmentation of six classes using u-net with efficientnetb7</H2></p>
 
 ![Picture6](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/66c982fc-cfc7-4122-9e5b-711afaa3eaf5)
 
