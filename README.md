@@ -42,6 +42,10 @@ The Steps involved in data preprocessing are shown in figure below:
 
 ![Picture4](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/441cf0a7-34b0-41e7-bb44-53ed4563888d)
 
+<H2 align:center >predictions of Mask_rcnn_R_50_DC5_3x After finetuning.</H2> 
+
+![Picture7](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/371023e6-3c3b-4940-a60a-ffc6013c05f4)
+
 <br>
 <H3>Architecture of YOLOV8</H3>
 
