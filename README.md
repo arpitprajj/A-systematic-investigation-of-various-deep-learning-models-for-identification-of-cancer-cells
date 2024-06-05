@@ -29,6 +29,7 @@ Figure2: Steps involved in data preprocessing.
 <br>
 
 <H3>Unet with EfficientnetB7 Encoder</H3>
+
 ![Picture3](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/7324544b-c106-42d3-b705-7af7caf440c0)
 <p align:center>
 Figure 3: Architecture of U-net - EfficientNetB7.</p>
