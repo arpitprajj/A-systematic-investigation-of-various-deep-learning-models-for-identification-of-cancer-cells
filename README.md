@@ -5,7 +5,7 @@
 
 
 <H3>Proposed Workflow</H3> 
-<BR></BR>
+
 Our proposed workflow includes five main stages: Data Preprocessing, Model Selection and Training, Model Evaluation and Comparison, Model Selection and Fine-Tuning, and Final Evaluation and Results. The diagram below describes the workflow stepwise.
 
 ![Picture1](https://github.com/srinivas21109/A-systematic-investigation-of-various-deep-learning-models-for-identification-of-cancer-cells/assets/119849011/270770c6-d2c1-4b76-a82a-f1ce1294e8a7)
